@@ -10,7 +10,7 @@ const Hero = () => {
           className="black_btn"
           type="button"
           onClick={() => {
-            window.open("https:");
+            window.open("https://github.com/sharanvkt/sonicSummarizer/");
           }}
         >
           GitHub
